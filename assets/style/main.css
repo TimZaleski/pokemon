@@ -10696,3 +10696,14 @@ main {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+.pokeRed{
+  background-color: rgb(179, 19, 19);
+  border: rgb(70, 18, 18);
+  border-style: inset;
+  border-width: 10px;
+}
+
+.capital {
+  text-transform: capitalize;
+}
